@@ -1,0 +1,61 @@
+body {
+    font-family: 'Secular One', sans-serif;
+}
+
+p {
+    text-align: justify;
+}
+
+header {
+    background-color: black;
+}
+
+.navbar-brand,
+.navbar-brand:hover {
+    color: white;
+    font-size: 40px;
+}
+
+.nav-link,
+.nav-link:hover {
+    color: white;
+    font-size: 18px;
+}
+
+.bi-plug-fill {
+    color: white;
+}
+
+
+#produtos {
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+
+
+#produtos img {
+    background-color: #232323;
+}
+
+#contato i {
+    color: black;
+}
+
+.social-links li a{
+    text-decoration: none;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+#contato button {
+    background-color: black;
+    color: white;
+}
+
+#contato button:hover {
+    background-color: rgb(51, 50, 50);
+}
