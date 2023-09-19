@@ -1,5 +1,6 @@
 body {
     font-family: 'Secular One', sans-serif;
+    background-color: #F1EADC;
 }
 
 p {
@@ -26,6 +27,9 @@ header {
     font-size: 18px;
 }
 
+.nav .nav-link.active {
+    background-color: black;
+}
 
 .bi-plug-fill {
     color: black;
