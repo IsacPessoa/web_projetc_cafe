@@ -11,6 +11,10 @@ header {
     background-color: #F1EADC;
 }
 
+section h2 {
+    border-bottom: 3px solid black;
+}
+
 .video-container {
     display: flex;
     justify-content: center;
