@@ -11,6 +11,12 @@ header {
     background-color: #F1EADC;
 }
 
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .carousel-item img {
     height: 900px;
 }
