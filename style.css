@@ -7,35 +7,41 @@ p {
 }
 
 header {
-    background-color: black;
+    background-color: #F1EADC;
+}
+
+.carousel-item img {
+    height: 900px;
 }
 
 .navbar-brand,
 .navbar-brand:hover {
-    color: white;
+    color: black;
     font-size: 40px;
 }
 
 .nav-link,
 .nav-link:hover {
-    color: white;
+    color: black;
     font-size: 18px;
 }
 
+
 .bi-plug-fill {
-    color: white;
+    color: black;
 }
 
 
 #produtos {
-    background-color: black;
-    color: white;
+    background-color: #F1EADC;
+    color: black;
     align-items: center;
 }
 
 
 #produtos img {
-    background-color: #232323;
+    background-color: white;
+    height: 60%;
 }
 
 #contato i {
