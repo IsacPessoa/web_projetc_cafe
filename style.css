@@ -39,6 +39,7 @@ section h2 {
 
 .nav .nav-link.active {
     background-color: black;
+    color: white;
 }
 
 .bi-plug-fill {
